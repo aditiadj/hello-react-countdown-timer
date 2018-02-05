@@ -1,5 +1,7 @@
 # Hello React
 
+Module: https://gitlab.com/impactbyte/course/module-reactjs
+
 --------------------------------------------------------------------------------
 
 ## Requirements
